@@ -29,7 +29,7 @@ static void prv_window_load(Window *window) {
       text_layer_set_font(s_text_layer, fonts_get_system_font(FONT_KEY_GOTHIC_28_BOLD));
       text_layer_set_text(s_text_layer, "Content Size\nExtra Large");
       break;
-    case NumPreferredContentSizes:
+    default:
       break;
   }
 
