@@ -7,7 +7,7 @@ in Pebble applications.
 
 [ContentSize Documentation](https://developer.pebble.com/docs/c/)
 
-
+> Requires SDK/firmware v4.2
 
 ## License
 
